@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parse:parse-android:1.17.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c53adbc6b3a4056611a9193db176063a/parse-android-1.17.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efed152ab5fb5213edc4451991b901be/parse-android-1.17.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3b2ffaf329b7799c5b8100a2f9f1a9f/parse-android-1.17.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c0a71c08cc00694a8aa7f1f8f71b7f4/jetified-parse-android-1.17.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c0a71c08cc00694a8aa7f1f8f71b7f4/jetified-parse-android-1.17.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c0a71c08cc00694a8aa7f1f8f71b7f4/jetified-parse-android-1.17.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/156bd7d3e54fb2a481dcc0686c78f380/jetified-parse-android-1.17.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/156bd7d3e54fb2a481dcc0686c78f380/jetified-parse-android-1.17.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/156bd7d3e54fb2a481dcc0686c78f380/jetified-parse-android-1.17.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.17.3/8250e682e318c0b151c08b719f4d47126c44cfc1/parse-android-1.17.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

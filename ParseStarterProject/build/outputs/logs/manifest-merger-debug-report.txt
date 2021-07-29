@@ -1,0 +1,1065 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01d61b4dcd5f3b8488187f4275656988/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/32098b69beb1cb548e137ce083a97fd7/navigation-ui-2.0.0-rc02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86d9f2e65dce60c678f89943df7c8071/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c4f9145c38ff2938ea1a0a152c1074b6/play-services-12.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/43d0c44f70777c6e78d0a7da7327fd4a/jetified-play-services-cast-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/abbe45645a1b5af8d8b3e68b483838de/mediarouter-1.0.0-alpha5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/818c6e39ca3cc56f741085298f643fbe/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:10:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a39940d1a669e2ac310f33d3d03e654d/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a09699a2a311b19f22aeaed02f48b3cf/navigation-fragment-2.0.0-rc02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d923fad96cad1f7df6b0b34949892da/jetified-play-services-ads-12.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/48b584313b3ec640acf4e4e687fe5e68/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/edb3607112a1a1c5d7e4ef8793b713ab/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f6fa27d87e81b4dc734a21616413084/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5f004666cf5d4a0c1af904a48a138bb/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/eabe7ff1bb4e4112d24c7b97bb331cae/jetified-firebase-config-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bdb9fc454f40c9f22e3508a7a4cf3e20/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b715a0809a1edc3ce499eda4a1d91b41/jetified-play-services-games-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/59e2dc27300d66b7ed2ec52d4fdca42b/jetified-play-services-drive-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d05cd9090b2c3a2e74a19059305fabeb/jetified-play-services-fido-12.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3246c63c126707f889de160813348abc/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/78252fe8428962cf438d88a86d1f251a/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c7395d63e7c1b98912706130d8ff246a/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/66ddca26b0f300c78ba2b3a3bcb74bac/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6ef5966f3476dbd6d41c3bb4c77c5363/play-services-identity-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9017111dc4220e70c894af4fc7a71d4a/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f1efdfb3858ece3c81b39424d971747b/jetified-play-services-location-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c2cdf01afd6581ead94e3f18d6ae9086/jetified-play-services-places-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b6e337c748356140b0dafa23f2450ade/play-services-panorama-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/aa62fece149bcad3da9a9bf38f5c3cbb/jetified-play-services-plus-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d61f6212e1b58142db4a0b099151e8d1/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6d56018c6097f84c1929117ee07c2fbc/play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/36b554567475e3a96caf61858ed71d5b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/41bc71e5ad9b03835a5cb5cee37213e1/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1c69954603468fb65778517887bdd926/jetified-firebase-database-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ba6c994e145d4d509dbbb4ecefca825c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/958b7cd779711db5d3ef262c34d63668/jetified-firebase-storage-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/672ae242ce11af575561ef99e7342fba/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/936a1c8156ef486b0b8145d388aaf2bc/play-services-gass-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bbc723d0ddf2b16c067893449a15a5b4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01a78cf554e6c4441512374e19a94070/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/61bb6f920e68a1f2609cec17a2f1222a/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0b0414ecf10825ce502c51b572029a70/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e3918ed0a8c838f2951ccec7173fbc25/navigation-runtime-2.0.0-rc02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/da45c9f7cdd1ecf61e0902c77d354a46/palette-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf1b3659fa18f99466ae4aaa764a5b38/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ddb60fe35623f3ca3ef4dd6b3c236e2d/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/882a3e08fbd0eee49ee35dbfb730d836/navigation-common-2.0.0-rc02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/983446b6a5873d4930a5ed8db28e343e/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab0971dc0418d312ad5e60792163f1ea/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86c84a825357d05c2f724246490a8df6/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d905bd4d37713ddb7e2a558cb611c465/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/db70915db5482881b82db5efafd295dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8a9ba95fcf0cc98ab87a4d17d4050b7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9a9cd2d08ee70c60e3868d1cc48e5a59/play-services-ads-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a3a01ce190b17b7083dc0999bfae7f97/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2090921822c45611f62b31059026255a/play-services-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/582bcd7baf7a8824a055ad7cb69c8209/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9887ab6c49dcaef65084e9a0de5b4c58/play-services-appinvite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cc73f6bfcfc14df5ce5809790858c5c/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/784730a053a0282636d12b3c7bdb45c8/play-services-auth-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/251e5afa48e5d6df655e5d5b24105c0e/play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98d2c7ca7efb30eb2df1576766713c5c/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/85c2bd9db9b72d05d110a6b48bc40188/play-services-cast-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/115cd388c34932201a64c5c12ca314ef/play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f48a2055745b884d59bcdd584766be30/firebase-config-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f7356ff87651e8e47da949f3313bd758/play-services-awareness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e41aa89b7b0e83ebfae4dd1adb561f3/firebase-crash-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98be5ba970cc721e0c82ed92294eca83/play-services-drive-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a2c2763f468e5863aab599111f08bbe7/play-services-fido-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4892ffbdeb175d7fd905d73327d6cd72/firebase-auth-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b73f73846151686a972e642303468d7b/firebase-database-connection-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf05e44616852bf42992f6c0b73dac42/firebase-database-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d47c39bbc5063f0952c9f963f7abbe55/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b424c77e44bb2336c16e40bf41e93d85/firebase-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ea8ff671fec7327759a28a61793e513/firebase-messaging-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7710c1126a0cb5ed0462cb4f2fb9a006/firebase-storage-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a8e5c69c81cc60d0c7742f4941d8423c/firebase-storage-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5ef14fc3aac1e93d6ebde648f1f714e/firebase-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7ab727ec300b983b04cfbd7318dc658b/play-services-fitness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d1ac1542c667cb559e6c502021020a4f/play-services-games-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d5e3f3f45d9fcfbc33c42930ed6a4e18/play-services-gass-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0159c837b527654c5c322df90f383a37/play-services-gcm-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/70c5f09e4916d7ec456e8b5118c98d34/firebase-appindexing-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/04e31b629751119003735e0f63184920/play-services-identity-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5723020726890491c44e947e6c424e8/play-services-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f4a12970724240ac488b85fdf17dc60/play-services-instantapps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4dd096fe578741f49811c48bd31a4fd4/play-services-location-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f3f313e29be7b0d149d1053108687907/play-services-maps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab76c800728310412f206e78ac2df093/firebase-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d31717a38fa059ec69c44bb3dd72b273/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f720f86d5cf82956e76252d332200872/play-services-nearby-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5602459010130f388ee04b89db93489/play-services-panorama-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b92eb415d37c75d5a0c15fdc33f72a7c/play-services-places-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c3665d5f75e9e00b028c914cac01b37e/play-services-plus-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6638c6b1c863cdd46386907bf1907257/play-services-safetynet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/731002643f9273f3c6bc62dc6490f99a/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8e6dc8573ce561a7e1ad2f934131f25/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bd88d9eda2dae4d4e7e0bfd312b0f942/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a6c60e46ef59d8400c11275eb50ba665/play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e63c07f82403ad6de44593e77436e92/play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/30fd161ee3bd81a8e53d83da761cd29b/play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d5465ad816dbd2cd8f43a1bb85bbf37/play-services-wallet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b513c1f08d0b6bba8cda3b3f4925f04e/play-services-wearable-license-12.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:19:5-67
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:20:5-79
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86d9f2e65dce60c678f89943df7c8071/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86d9f2e65dce60c678f89943df7c8071/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c4f9145c38ff2938ea1a0a152c1074b6/play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c4f9145c38ff2938ea1a0a152c1074b6/play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/43d0c44f70777c6e78d0a7da7327fd4a/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/43d0c44f70777c6e78d0a7da7327fd4a/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a39940d1a669e2ac310f33d3d03e654d/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a39940d1a669e2ac310f33d3d03e654d/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/edb3607112a1a1c5d7e4ef8793b713ab/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/edb3607112a1a1c5d7e4ef8793b713ab/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/eabe7ff1bb4e4112d24c7b97bb331cae/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/eabe7ff1bb4e4112d24c7b97bb331cae/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bdb9fc454f40c9f22e3508a7a4cf3e20/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bdb9fc454f40c9f22e3508a7a4cf3e20/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b715a0809a1edc3ce499eda4a1d91b41/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b715a0809a1edc3ce499eda4a1d91b41/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/59e2dc27300d66b7ed2ec52d4fdca42b/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/59e2dc27300d66b7ed2ec52d4fdca42b/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d05cd9090b2c3a2e74a19059305fabeb/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d05cd9090b2c3a2e74a19059305fabeb/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3246c63c126707f889de160813348abc/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3246c63c126707f889de160813348abc/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/78252fe8428962cf438d88a86d1f251a/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/78252fe8428962cf438d88a86d1f251a/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c7395d63e7c1b98912706130d8ff246a/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c7395d63e7c1b98912706130d8ff246a/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6ef5966f3476dbd6d41c3bb4c77c5363/play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6ef5966f3476dbd6d41c3bb4c77c5363/play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f1efdfb3858ece3c81b39424d971747b/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f1efdfb3858ece3c81b39424d971747b/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c2cdf01afd6581ead94e3f18d6ae9086/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c2cdf01afd6581ead94e3f18d6ae9086/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b6e337c748356140b0dafa23f2450ade/play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b6e337c748356140b0dafa23f2450ade/play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/aa62fece149bcad3da9a9bf38f5c3cbb/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/aa62fece149bcad3da9a9bf38f5c3cbb/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d61f6212e1b58142db4a0b099151e8d1/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d61f6212e1b58142db4a0b099151e8d1/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6d56018c6097f84c1929117ee07c2fbc/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6d56018c6097f84c1929117ee07c2fbc/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/36b554567475e3a96caf61858ed71d5b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/36b554567475e3a96caf61858ed71d5b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/41bc71e5ad9b03835a5cb5cee37213e1/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/41bc71e5ad9b03835a5cb5cee37213e1/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/936a1c8156ef486b0b8145d388aaf2bc/play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/936a1c8156ef486b0b8145d388aaf2bc/play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bbc723d0ddf2b16c067893449a15a5b4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bbc723d0ddf2b16c067893449a15a5b4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab0971dc0418d312ad5e60792163f1ea/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab0971dc0418d312ad5e60792163f1ea/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9a9cd2d08ee70c60e3868d1cc48e5a59/play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9a9cd2d08ee70c60e3868d1cc48e5a59/play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a3a01ce190b17b7083dc0999bfae7f97/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a3a01ce190b17b7083dc0999bfae7f97/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2090921822c45611f62b31059026255a/play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2090921822c45611f62b31059026255a/play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/582bcd7baf7a8824a055ad7cb69c8209/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/582bcd7baf7a8824a055ad7cb69c8209/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9887ab6c49dcaef65084e9a0de5b4c58/play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9887ab6c49dcaef65084e9a0de5b4c58/play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cc73f6bfcfc14df5ce5809790858c5c/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cc73f6bfcfc14df5ce5809790858c5c/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/784730a053a0282636d12b3c7bdb45c8/play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/784730a053a0282636d12b3c7bdb45c8/play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/251e5afa48e5d6df655e5d5b24105c0e/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/251e5afa48e5d6df655e5d5b24105c0e/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98d2c7ca7efb30eb2df1576766713c5c/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98d2c7ca7efb30eb2df1576766713c5c/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/85c2bd9db9b72d05d110a6b48bc40188/play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/85c2bd9db9b72d05d110a6b48bc40188/play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/115cd388c34932201a64c5c12ca314ef/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/115cd388c34932201a64c5c12ca314ef/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f48a2055745b884d59bcdd584766be30/firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f48a2055745b884d59bcdd584766be30/firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f7356ff87651e8e47da949f3313bd758/play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f7356ff87651e8e47da949f3313bd758/play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e41aa89b7b0e83ebfae4dd1adb561f3/firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e41aa89b7b0e83ebfae4dd1adb561f3/firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98be5ba970cc721e0c82ed92294eca83/play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98be5ba970cc721e0c82ed92294eca83/play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a2c2763f468e5863aab599111f08bbe7/play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a2c2763f468e5863aab599111f08bbe7/play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4892ffbdeb175d7fd905d73327d6cd72/firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4892ffbdeb175d7fd905d73327d6cd72/firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b73f73846151686a972e642303468d7b/firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b73f73846151686a972e642303468d7b/firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf05e44616852bf42992f6c0b73dac42/firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf05e44616852bf42992f6c0b73dac42/firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d47c39bbc5063f0952c9f963f7abbe55/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d47c39bbc5063f0952c9f963f7abbe55/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b424c77e44bb2336c16e40bf41e93d85/firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b424c77e44bb2336c16e40bf41e93d85/firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ea8ff671fec7327759a28a61793e513/firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ea8ff671fec7327759a28a61793e513/firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7710c1126a0cb5ed0462cb4f2fb9a006/firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7710c1126a0cb5ed0462cb4f2fb9a006/firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a8e5c69c81cc60d0c7742f4941d8423c/firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a8e5c69c81cc60d0c7742f4941d8423c/firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5ef14fc3aac1e93d6ebde648f1f714e/firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5ef14fc3aac1e93d6ebde648f1f714e/firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7ab727ec300b983b04cfbd7318dc658b/play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7ab727ec300b983b04cfbd7318dc658b/play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d1ac1542c667cb559e6c502021020a4f/play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d1ac1542c667cb559e6c502021020a4f/play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d5e3f3f45d9fcfbc33c42930ed6a4e18/play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d5e3f3f45d9fcfbc33c42930ed6a4e18/play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0159c837b527654c5c322df90f383a37/play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0159c837b527654c5c322df90f383a37/play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/70c5f09e4916d7ec456e8b5118c98d34/firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/70c5f09e4916d7ec456e8b5118c98d34/firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/04e31b629751119003735e0f63184920/play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/04e31b629751119003735e0f63184920/play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5723020726890491c44e947e6c424e8/play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5723020726890491c44e947e6c424e8/play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f4a12970724240ac488b85fdf17dc60/play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f4a12970724240ac488b85fdf17dc60/play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4dd096fe578741f49811c48bd31a4fd4/play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4dd096fe578741f49811c48bd31a4fd4/play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f3f313e29be7b0d149d1053108687907/play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f3f313e29be7b0d149d1053108687907/play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab76c800728310412f206e78ac2df093/firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab76c800728310412f206e78ac2df093/firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d31717a38fa059ec69c44bb3dd72b273/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d31717a38fa059ec69c44bb3dd72b273/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f720f86d5cf82956e76252d332200872/play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f720f86d5cf82956e76252d332200872/play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5602459010130f388ee04b89db93489/play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5602459010130f388ee04b89db93489/play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b92eb415d37c75d5a0c15fdc33f72a7c/play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b92eb415d37c75d5a0c15fdc33f72a7c/play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c3665d5f75e9e00b028c914cac01b37e/play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c3665d5f75e9e00b028c914cac01b37e/play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6638c6b1c863cdd46386907bf1907257/play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6638c6b1c863cdd46386907bf1907257/play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/731002643f9273f3c6bc62dc6490f99a/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/731002643f9273f3c6bc62dc6490f99a/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8e6dc8573ce561a7e1ad2f934131f25/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8e6dc8573ce561a7e1ad2f934131f25/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bd88d9eda2dae4d4e7e0bfd312b0f942/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bd88d9eda2dae4d4e7e0bfd312b0f942/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a6c60e46ef59d8400c11275eb50ba665/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a6c60e46ef59d8400c11275eb50ba665/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e63c07f82403ad6de44593e77436e92/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e63c07f82403ad6de44593e77436e92/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/30fd161ee3bd81a8e53d83da761cd29b/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/30fd161ee3bd81a8e53d83da761cd29b/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d5465ad816dbd2cd8f43a1bb85bbf37/play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d5465ad816dbd2cd8f43a1bb85bbf37/play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b513c1f08d0b6bba8cda3b3f4925f04e/play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b513c1f08d0b6bba8cda3b3f4925f04e/play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+activity#com.parse.starter.FeedActivity
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:17:19-47
+activity#com.parse.starter.UserActivity
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:18:19-47
+activity#com.parse.starter.MainActivity
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01d61b4dcd5f3b8488187f4275656988/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01d61b4dcd5f3b8488187f4275656988/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/32098b69beb1cb548e137ce083a97fd7/navigation-ui-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/32098b69beb1cb548e137ce083a97fd7/navigation-ui-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86d9f2e65dce60c678f89943df7c8071/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86d9f2e65dce60c678f89943df7c8071/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c4f9145c38ff2938ea1a0a152c1074b6/play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c4f9145c38ff2938ea1a0a152c1074b6/play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/43d0c44f70777c6e78d0a7da7327fd4a/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/43d0c44f70777c6e78d0a7da7327fd4a/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/abbe45645a1b5af8d8b3e68b483838de/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/abbe45645a1b5af8d8b3e68b483838de/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/818c6e39ca3cc56f741085298f643fbe/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/818c6e39ca3cc56f741085298f643fbe/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:15:5-17:41
+MERGED from [com.parse:parse-android:1.17.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b736d5c020317087b6daea52e9a73b7c/jetified-parse-android-1.17.3/AndroidManifest.xml:15:5-17:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a39940d1a669e2ac310f33d3d03e654d/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a39940d1a669e2ac310f33d3d03e654d/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a09699a2a311b19f22aeaed02f48b3cf/navigation-fragment-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a09699a2a311b19f22aeaed02f48b3cf/navigation-fragment-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d923fad96cad1f7df6b0b34949892da/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d923fad96cad1f7df6b0b34949892da/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/48b584313b3ec640acf4e4e687fe5e68/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/48b584313b3ec640acf4e4e687fe5e68/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/edb3607112a1a1c5d7e4ef8793b713ab/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/edb3607112a1a1c5d7e4ef8793b713ab/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f6fa27d87e81b4dc734a21616413084/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f6fa27d87e81b4dc734a21616413084/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5f004666cf5d4a0c1af904a48a138bb/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5f004666cf5d4a0c1af904a48a138bb/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/eabe7ff1bb4e4112d24c7b97bb331cae/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/eabe7ff1bb4e4112d24c7b97bb331cae/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bdb9fc454f40c9f22e3508a7a4cf3e20/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bdb9fc454f40c9f22e3508a7a4cf3e20/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b715a0809a1edc3ce499eda4a1d91b41/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b715a0809a1edc3ce499eda4a1d91b41/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/59e2dc27300d66b7ed2ec52d4fdca42b/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/59e2dc27300d66b7ed2ec52d4fdca42b/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d05cd9090b2c3a2e74a19059305fabeb/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d05cd9090b2c3a2e74a19059305fabeb/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3246c63c126707f889de160813348abc/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3246c63c126707f889de160813348abc/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/78252fe8428962cf438d88a86d1f251a/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/78252fe8428962cf438d88a86d1f251a/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c7395d63e7c1b98912706130d8ff246a/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c7395d63e7c1b98912706130d8ff246a/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/66ddca26b0f300c78ba2b3a3bcb74bac/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/66ddca26b0f300c78ba2b3a3bcb74bac/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6ef5966f3476dbd6d41c3bb4c77c5363/play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6ef5966f3476dbd6d41c3bb4c77c5363/play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9017111dc4220e70c894af4fc7a71d4a/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9017111dc4220e70c894af4fc7a71d4a/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f1efdfb3858ece3c81b39424d971747b/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f1efdfb3858ece3c81b39424d971747b/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c2cdf01afd6581ead94e3f18d6ae9086/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c2cdf01afd6581ead94e3f18d6ae9086/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b02509b67b99c2829668d33deb0fc034/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b6e337c748356140b0dafa23f2450ade/play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b6e337c748356140b0dafa23f2450ade/play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/aa62fece149bcad3da9a9bf38f5c3cbb/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/aa62fece149bcad3da9a9bf38f5c3cbb/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d61f6212e1b58142db4a0b099151e8d1/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d61f6212e1b58142db4a0b099151e8d1/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6d56018c6097f84c1929117ee07c2fbc/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6d56018c6097f84c1929117ee07c2fbc/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/36b554567475e3a96caf61858ed71d5b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/36b554567475e3a96caf61858ed71d5b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/41bc71e5ad9b03835a5cb5cee37213e1/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/41bc71e5ad9b03835a5cb5cee37213e1/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1fedda39eac63f580cced7f066f4af53/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1c69954603468fb65778517887bdd926/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1c69954603468fb65778517887bdd926/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ba6c994e145d4d509dbbb4ecefca825c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ba6c994e145d4d509dbbb4ecefca825c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/958b7cd779711db5d3ef262c34d63668/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/958b7cd779711db5d3ef262c34d63668/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/672ae242ce11af575561ef99e7342fba/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/672ae242ce11af575561ef99e7342fba/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/936a1c8156ef486b0b8145d388aaf2bc/play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/936a1c8156ef486b0b8145d388aaf2bc/play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bbc723d0ddf2b16c067893449a15a5b4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bbc723d0ddf2b16c067893449a15a5b4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01a78cf554e6c4441512374e19a94070/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01a78cf554e6c4441512374e19a94070/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/61bb6f920e68a1f2609cec17a2f1222a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/61bb6f920e68a1f2609cec17a2f1222a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0b0414ecf10825ce502c51b572029a70/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0b0414ecf10825ce502c51b572029a70/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e3918ed0a8c838f2951ccec7173fbc25/navigation-runtime-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e3918ed0a8c838f2951ccec7173fbc25/navigation-runtime-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/da45c9f7cdd1ecf61e0902c77d354a46/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/da45c9f7cdd1ecf61e0902c77d354a46/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf1b3659fa18f99466ae4aaa764a5b38/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf1b3659fa18f99466ae4aaa764a5b38/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ddb60fe35623f3ca3ef4dd6b3c236e2d/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ddb60fe35623f3ca3ef4dd6b3c236e2d/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/882a3e08fbd0eee49ee35dbfb730d836/navigation-common-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0-rc02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/882a3e08fbd0eee49ee35dbfb730d836/navigation-common-2.0.0-rc02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/983446b6a5873d4930a5ed8db28e343e/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/983446b6a5873d4930a5ed8db28e343e/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9902be9b1aac21e364b85501bd7541d0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab0971dc0418d312ad5e60792163f1ea/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab0971dc0418d312ad5e60792163f1ea/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86c84a825357d05c2f724246490a8df6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/86c84a825357d05c2f724246490a8df6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d905bd4d37713ddb7e2a558cb611c465/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d905bd4d37713ddb7e2a558cb611c465/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/db70915db5482881b82db5efafd295dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/db70915db5482881b82db5efafd295dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8a9ba95fcf0cc98ab87a4d17d4050b7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8a9ba95fcf0cc98ab87a4d17d4050b7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9a9cd2d08ee70c60e3868d1cc48e5a59/play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9a9cd2d08ee70c60e3868d1cc48e5a59/play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a3a01ce190b17b7083dc0999bfae7f97/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a3a01ce190b17b7083dc0999bfae7f97/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2090921822c45611f62b31059026255a/play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2090921822c45611f62b31059026255a/play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/582bcd7baf7a8824a055ad7cb69c8209/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/582bcd7baf7a8824a055ad7cb69c8209/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9887ab6c49dcaef65084e9a0de5b4c58/play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/9887ab6c49dcaef65084e9a0de5b4c58/play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cc73f6bfcfc14df5ce5809790858c5c/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7cc73f6bfcfc14df5ce5809790858c5c/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/784730a053a0282636d12b3c7bdb45c8/play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/784730a053a0282636d12b3c7bdb45c8/play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/251e5afa48e5d6df655e5d5b24105c0e/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/251e5afa48e5d6df655e5d5b24105c0e/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98d2c7ca7efb30eb2df1576766713c5c/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98d2c7ca7efb30eb2df1576766713c5c/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/85c2bd9db9b72d05d110a6b48bc40188/play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/85c2bd9db9b72d05d110a6b48bc40188/play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/115cd388c34932201a64c5c12ca314ef/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/115cd388c34932201a64c5c12ca314ef/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f48a2055745b884d59bcdd584766be30/firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f48a2055745b884d59bcdd584766be30/firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f7356ff87651e8e47da949f3313bd758/play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f7356ff87651e8e47da949f3313bd758/play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e41aa89b7b0e83ebfae4dd1adb561f3/firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e41aa89b7b0e83ebfae4dd1adb561f3/firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98be5ba970cc721e0c82ed92294eca83/play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/98be5ba970cc721e0c82ed92294eca83/play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a2c2763f468e5863aab599111f08bbe7/play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a2c2763f468e5863aab599111f08bbe7/play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4892ffbdeb175d7fd905d73327d6cd72/firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4892ffbdeb175d7fd905d73327d6cd72/firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b73f73846151686a972e642303468d7b/firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b73f73846151686a972e642303468d7b/firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf05e44616852bf42992f6c0b73dac42/firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cf05e44616852bf42992f6c0b73dac42/firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d47c39bbc5063f0952c9f963f7abbe55/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d47c39bbc5063f0952c9f963f7abbe55/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b424c77e44bb2336c16e40bf41e93d85/firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b424c77e44bb2336c16e40bf41e93d85/firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ea8ff671fec7327759a28a61793e513/firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2ea8ff671fec7327759a28a61793e513/firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7710c1126a0cb5ed0462cb4f2fb9a006/firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7710c1126a0cb5ed0462cb4f2fb9a006/firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a8e5c69c81cc60d0c7742f4941d8423c/firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a8e5c69c81cc60d0c7742f4941d8423c/firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5ef14fc3aac1e93d6ebde648f1f714e/firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5ef14fc3aac1e93d6ebde648f1f714e/firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7ab727ec300b983b04cfbd7318dc658b/play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/7ab727ec300b983b04cfbd7318dc658b/play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d1ac1542c667cb559e6c502021020a4f/play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d1ac1542c667cb559e6c502021020a4f/play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d5e3f3f45d9fcfbc33c42930ed6a4e18/play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d5e3f3f45d9fcfbc33c42930ed6a4e18/play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0159c837b527654c5c322df90f383a37/play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0159c837b527654c5c322df90f383a37/play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/70c5f09e4916d7ec456e8b5118c98d34/firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/70c5f09e4916d7ec456e8b5118c98d34/firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/04e31b629751119003735e0f63184920/play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/04e31b629751119003735e0f63184920/play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5723020726890491c44e947e6c424e8/play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f5723020726890491c44e947e6c424e8/play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f4a12970724240ac488b85fdf17dc60/play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/5f4a12970724240ac488b85fdf17dc60/play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4dd096fe578741f49811c48bd31a4fd4/play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4dd096fe578741f49811c48bd31a4fd4/play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f3f313e29be7b0d149d1053108687907/play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f3f313e29be7b0d149d1053108687907/play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab76c800728310412f206e78ac2df093/firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/ab76c800728310412f206e78ac2df093/firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d31717a38fa059ec69c44bb3dd72b273/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/d31717a38fa059ec69c44bb3dd72b273/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f720f86d5cf82956e76252d332200872/play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/f720f86d5cf82956e76252d332200872/play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5602459010130f388ee04b89db93489/play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5602459010130f388ee04b89db93489/play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b92eb415d37c75d5a0c15fdc33f72a7c/play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b92eb415d37c75d5a0c15fdc33f72a7c/play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c3665d5f75e9e00b028c914cac01b37e/play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c3665d5f75e9e00b028c914cac01b37e/play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6638c6b1c863cdd46386907bf1907257/play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6638c6b1c863cdd46386907bf1907257/play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/731002643f9273f3c6bc62dc6490f99a/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/731002643f9273f3c6bc62dc6490f99a/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8e6dc8573ce561a7e1ad2f934131f25/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e8e6dc8573ce561a7e1ad2f934131f25/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bd88d9eda2dae4d4e7e0bfd312b0f942/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/bd88d9eda2dae4d4e7e0bfd312b0f942/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a6c60e46ef59d8400c11275eb50ba665/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a6c60e46ef59d8400c11275eb50ba665/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e63c07f82403ad6de44593e77436e92/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/0e63c07f82403ad6de44593e77436e92/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/30fd161ee3bd81a8e53d83da761cd29b/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/30fd161ee3bd81a8e53d83da761cd29b/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d5465ad816dbd2cd8f43a1bb85bbf37/play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d5465ad816dbd2cd8f43a1bb85bbf37/play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b513c1f08d0b6bba8cda3b3f4925f04e/play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b513c1f08d0b6bba8cda3b3f4925f04e/play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4d923fad96cad1f7df6b0b34949892da/jetified-play-services-ads-12.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sayalipawar/Downloads/Twitter/ParseStarterProject/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/1590595929e99f886cb4d5c245b7282b/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/80d6cfd202d8108734fd2b431be0acd6/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/2919c873bf0e0838ff5d2dd4b642f13e/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/4734c83d25d460405e6c34cc7a36841e/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/dab46f4c950ce8de0ed2463e7d1e660b/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/75422023b91c114d0b33ae0e4752d9bd/jetified-play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/6147e54b9ff978c64a1f13f03b33acae/jetified-firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c72b451064c33e7e61b298755cc64625/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/3268e7286b399d98ee4618bf22d159fc/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/67fd634b49d7dc76401b4fffd2a2f878/jetified-play-services-maps-12.0.1/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b5fc1b7fdc798423c5cb962b1c2f3fe4/jetified-play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/c5b752960f8ededbe5626ae0df6fe2df/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/b70e49355a8c4992914a355a2157ff74/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/62635d528eba9a459e35baf7872d4bcb/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/a19cf168580ff61d464b3f354dd4e413/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/e28229114915a5978219e9a5d3bf24d3/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/619dbeaa964be44962ed19e76efd168a/jetified-firebase-common-12.0.1/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sayalipawar/.gradle/caches/transforms-2/files-2.1/cd80e2d132222890614dfff39b555111/jetified-play-services-basement-12.0.1/AndroidManifest.xml:24:13-58
